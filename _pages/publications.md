@@ -31,10 +31,8 @@ author_profile: true
 
 ## In Submission
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
-<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao and Marc Pollefeys.  
-<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).</i>  
+<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao and Marc Pollefeys.    
 [[Code]](https://github.com/GhiXu/ACMMP)
 
 <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo</b> <br> 
-<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao and Marc Pollefeys.  
-<i>submitted to International Journal of Computer Vision (IJCV).</i>  
+<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao and Marc Pollefeys.   
