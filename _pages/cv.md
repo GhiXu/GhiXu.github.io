@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-* Summer 2015: Visiting Ph.D. Student
+* Oct. 2015 - May 2021: Visiting Ph.D. Student
   * Computer Vision and Geometry Group (CVG) at ETH Zurich
   * Topic: Learning-based Multi-View Stereo
   * Supervisor: Professor Marc Pollefeys
