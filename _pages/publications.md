@@ -31,7 +31,7 @@ author_profile: true
 
 ## In Submission
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
-<b>Qingshan Xu</b>, Wehang Kong, Wenbing Tao and Marc Pollefeys.  
+<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao and Marc Pollefeys.  
 <i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).</i>  
 [[Code]](https://github.com/GhiXu/ACMMP)
 
