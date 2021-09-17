@@ -38,4 +38,3 @@ author_profile: true
 <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo</b> <br> 
 <b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao and Marc Pollefeys.  
 <i>submitted to International Journal of Computer Vision (IJCV).</i>  
-[[Code]](https://github.com/GhiXu/ACMMP)
