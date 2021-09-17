@@ -29,7 +29,7 @@ author_profile: true
 <i>Chinese Conference on Computer Vision, 2017.</i>  
 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-10-7302-1_9)
 
-# In Submission
+## In Submission
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
 <b>Qingshan Xu</b>, Wehang Kong, Wenbing Tao and Marc Pollefeys.  
 <i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI).</i>  
