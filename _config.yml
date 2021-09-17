@@ -11,9 +11,9 @@ title                    : "Qingshan Xu"
 title_separator          : "-"
 name                     : &name "Qingshan Xu"
 description              : &description "Ph.D. student of Huazhong University of Science and Technology"
-url                      : https://qingshanxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ghixu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "GhiXu/qingshanxu.github.io"
+repository               : "GhiXu/GhiXu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Qingshan Xu"
-  avatar           : # "profile.png"
+  avatar           : "QSX.jpg"
   bio              : "Ph.D. student of Huazhong University of Science and Technology" # "Your biography for the left-hand sidebar"
   location         : "Wuhan China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=k96kDhsAAAAJ"
   email            : qingshanxu@hust.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
