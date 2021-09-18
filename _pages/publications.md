@@ -20,19 +20,19 @@ author_profile: true
 [[Paper]](https://arxiv.org/abs/1904.08103) [[Code]](https://github.com/GhiXu/ACMM)
 
 <b>Efficient Large-scale Geometric Verification for Structure from Motion</b> <br> 
-<b>Qingshan Xu</b>, Jie Li, Wenbing Tao and Delie Ming.  
+<b>Qingshan Xu</b>, Jie Li, Wenbing Tao, and Delie Ming.  
 <i>Pattern Recognition Letters, 2019.</i>  
 [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865518306512)
 
 <b>Massively Parallel Image Index for Vocabulary Tree Based Image Retrieval</b> <br> 
-<b>Qingshan Xu</b>, Kun Sun, Wenbing Tao and Liman Liu.  
+<b>Qingshan Xu</b>, Kun Sun, Wenbing Tao, and Liman Liu.  
 <i>Chinese Conference on Computer Vision, 2017.</i>  
 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-10-7302-1_9)
 
 ## In Submission
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
-<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao and Marc Pollefeys.    
+<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.    
 [[Code]](https://github.com/GhiXu/ACMMP)
 
 <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo</b> <br> 
-<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao and Marc Pollefeys.   
+<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.   
