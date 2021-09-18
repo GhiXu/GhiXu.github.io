@@ -34,5 +34,5 @@ author_profile: true
 <b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.    
 [[Code]](https://github.com/GhiXu/ACMMP)
 
-<b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo</b> <br> 
+<b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
 <b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.   
