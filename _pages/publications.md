@@ -12,7 +12,7 @@ author_profile: true
 <b>Planar Prior Assisted PatchMatch Multi-View Stereo</b> <br> 
 <b>Qingshan Xu</b>, and Wenbing Tao.  
 <i>AAAI, 2020.</i>  
-[[Paper]](https://arxiv.org/abs/1912.11744) [[Code]](https://github.com/GhiXu/ACMMP)
+[[Paper]](https://arxiv.org/abs/1912.11744) [[Code]](https://github.com/GhiXu/ACMP)
 
 <b>Multi-Scale Geometric Consistency Guided Multi-View Stereo</b> <br> 
 <b>Qingshan Xu</b>, and Wenbing Tao.  
