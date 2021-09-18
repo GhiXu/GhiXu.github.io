@@ -36,3 +36,4 @@ author_profile: true
 
 <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
 <b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.   
+[[Paper]](https://github.com/GhiXu/GhiXu.github.io/blob/master/files/Learning%20Inverse%20Depth%20Regression%20for%20Pixelwise%20Visibility-Aware%20Multi-View%20Stereo%20Networks.pdf)
