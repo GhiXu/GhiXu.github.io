@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 <b>Uncertainty-guided Multi-View Stereo Networks for Depth Estimation</b> <br> 
-<b>Wanjuan Su, Qingshan Xu</b>, and Wenbing Tao.
+Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.  
 <i>TCSVT, 2022.</i> 
 
 <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
-<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.
+<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.  
 <i>IJCV, 2022.</i> 
 
 <b>Learning Inverse Depth Regression for Multi-View Stereo with Correlation Cost Volume</b> <br> 
@@ -39,7 +39,7 @@ author_profile: true
 
 ## In Submission
 <b>Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction</b> <br> 
-<b>Qiancheng Fu*, Qingshan Xu*</b>, Yew-Soon Ong and Wenbing Tao. (Equal Contribution)    
+Qiancheng Fu*, <b>Qingshan Xu*</b>, Yew-Soon Ong and Wenbing Tao. (* Equal Contribution)    
 [[Paper]](https://arxiv.org/abs/2205.15848) [[Code]](https://github.com/GhiXu/Geo-Neus)
 
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
