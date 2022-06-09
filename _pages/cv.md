@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Vision and Pattern Recognition, Huazhong University of Sciene and Technology, Sep. 2016 - Present
+* Ph.D in Computer Vision and Pattern Recognition, Huazhong University of Sciene and Technology, Sep. 2016 - Dec. 2021
 * B.S. in Automation, Central South University, Sep. 2012 - Jun. 2016
 
 Experience
