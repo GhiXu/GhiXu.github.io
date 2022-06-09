@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Uncertainty-guided Multi-View Stereo Networks for Depth Estimation</b> <br> 
+<b>Uncertainty-guided Multi-view Stereo Networks for Depth Estimation</b> <br> 
 Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.  
 <i>TCSVT, 2022.</i> 
 
