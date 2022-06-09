@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Uncertainty-guided Multi-View Stereo Networks for Depth Estimation</b> <br> 
+<b>Wanjuan Su, Qingshan Xu</b>, and Wenbing Tao.
+<i>TCSVT, 2022.</i> 
+
+<b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
+<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.
+<i>IJCV, 2022.</i> 
+
 <b>Learning Inverse Depth Regression for Multi-View Stereo with Correlation Cost Volume</b> <br> 
 <b>Qingshan Xu</b>, and Wenbing Tao.  
 <i>AAAI, 2020.</i>  
@@ -30,9 +38,12 @@ author_profile: true
 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-10-7302-1_9)
 
 ## In Submission
+<b>Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction</b> <br> 
+<b>Qiancheng Fu*, Qingshan Xu*</b>, Yew-Soon Ong and Wenbing Tao. (Equal Contribution)    
+[[Paper]](https://arxiv.org/abs/2205.15848) [[Code]](https://github.com/GhiXu/Geo-Neus)
+
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
 <b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.    
 [[Code]](https://github.com/GhiXu/ACMMP)
 
-<b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
-<b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.   
+   
