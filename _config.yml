@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qingshan Xu"
 title_separator          : "-"
 name                     : &name "Qingshan Xu"
-description              : &description "Ph.D. student of Huazhong University of Science and Technology"
+description              : &description "Research Fellow, Nanyang Technological University"
 url                      : https://ghixu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GhiXu/GhiXu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qingshan Xu"
   avatar           : "QSX.jpg"
-  bio              : "Ph.D. student of Huazhong University of Science and Technology" # "Your biography for the left-hand sidebar"
+  bio              : "Research Fellow, Nanyang Technological University" # "Your biography for the left-hand sidebar"
   location         : "Wuhan China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
