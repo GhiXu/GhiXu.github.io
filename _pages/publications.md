@@ -6,7 +6,8 @@ author_profile: true
 
 <b>Uncertainty-guided Multi-view Stereo Networks for Depth Estimation</b> <br> 
 Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.  
-<i>TCSVT, 2022.</i> 
+<i>TCSVT, 2022.</i>   
+[[Paper]](https://ieeexplore.ieee.org/document/9797764)
 
 <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
 <b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.  
