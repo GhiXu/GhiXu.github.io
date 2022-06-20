@@ -11,7 +11,8 @@ Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.
 
 <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
 <b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.  
-<i>IJCV, 2022.</i> 
+<i>IJCV, 2022.</i>  
+[[Paper]](https://trebuchet.public.springernature.app/get_content/79aa1569-1998-49c9-b675-acb305d056a2)
 
 <b>Learning Inverse Depth Regression for Multi-View Stereo with Correlation Cost Volume</b> <br> 
 <b>Qingshan Xu</b>, and Wenbing Tao.  
