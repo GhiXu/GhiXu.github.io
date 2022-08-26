@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
-<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.    
+<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.   
+<i>TPAMI, 2022.</i>  
 [[Paper]](https://ieeexplore.ieee.org/document/9863705) [[Code]](https://github.com/GhiXu/ACMMP)  
 
 <b>Uncertainty-guided Multi-view Stereo Networks for Depth Estimation</b> <br> 
