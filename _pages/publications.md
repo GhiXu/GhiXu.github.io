@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
+<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.    
+[[Paper]](https://ieeexplore.ieee.org/document/9863705) [[Code]](https://github.com/GhiXu/ACMMP)  
+
 <b>Uncertainty-guided Multi-view Stereo Networks for Depth Estimation</b> <br> 
 Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.  
 <i>TCSVT, 2022.</i>   
@@ -44,8 +48,6 @@ Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.
 Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao. (\* Equal Contribution)    
 [[Paper]](https://arxiv.org/abs/2205.15848) [[Code]](https://github.com/GhiXu/Geo-Neus)
 
-<b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
-<b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.    
-[[Code]](https://github.com/GhiXu/ACMMP)
+
 
    
