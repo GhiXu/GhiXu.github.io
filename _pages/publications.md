@@ -44,10 +44,12 @@ Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.
 <i>Chinese Conference on Computer Vision, 2017.</i>  
 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-10-7302-1_9)
 
+<!--
 ## In Submission
 <b>Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction</b> <br> 
 Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao. (\* Equal Contribution)    
-[[Paper]](https://arxiv.org/abs/2205.15848) [[Code]](https://github.com/GhiXu/Geo-Neus)
+[[Paper]](https://arxiv.org/abs/2205.15848) [[Code]](https://github.com/GhiXu/Geo-Neus) 
+--> 
 
 
 
