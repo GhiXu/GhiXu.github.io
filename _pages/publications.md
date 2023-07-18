@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+<b>Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction</b> <br> 
+Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao. (\* Equal Contribution)
+<i>NeurIPS, 2022.</i>
+[[Paper]](https://arxiv.org/abs/2205.15848) [[Code]](https://github.com/GhiXu/Geo-Neus) 
+
 <b>Multi-Scale Geometric Consistency Guided and Planar Prior Assisted Multi-View Stereo</b> <br> 
 <b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.   
 <i>TPAMI, 2022.</i>  
