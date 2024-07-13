@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-See more publications in: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=k96kDhsAAAAJ&view_op=list_works&sortby=pubdate) 
+See more publications in: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=k96kDhsAAAAJ&view_op=list_works&sortby=pubdate)  
 \* denotes equal contribution. 
 
 * <b>Few-shot NeRF by Adaptive Rendering Loss Regularization</b> <br> 
