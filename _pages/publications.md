@@ -45,7 +45,7 @@ Xiaotian Sun, <b>Qingshan Xu</b>, Xinjie Yang, Yu Zang, and Cheng Wang.
 <i>CVPR, 2024.</i>  
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Global_and_Hierarchical_Geometry_Consistency_Priors_for_Few-shot_NeRFs_in_CVPR_2024_paper.pdf) [[Code]](https://github.com/XT5un/P2NeRF)
 
-* <b>Diffusion time-step curriculum for one image to 3d generation</b> <br> 
+* <b>Diffusion Time-step Curriculum for One Image to 3D Generation</b> <br> 
 Xuanyu Yi, Zike Wu, <b>Qingshan Xu</b>, Pan Zhou, Joo-Hwee Lim, and Hanwang Zhang.  
 <i>CVPR, 2024.</i>  
 [[Paper]](https://arxiv.org/abs/2404.04562v3) [[Code]](https://github.com/yxymessi/DTC123)
