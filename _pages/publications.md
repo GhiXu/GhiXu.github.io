@@ -39,6 +39,26 @@ Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao.
 <i>CVPR, 2019.</i>  
 [[Paper]](https://arxiv.org/abs/1904.08103) [[Code]](https://github.com/GhiXu/ACMM)
 
+* <b>Global and Hierarchical Geometry Consistency Priors for Few-shot NeRFs in Indoor Scenes</b> <br> 
+Xiaotian Sun, <b>Qingshan Xu</b>, Xinjie Yang, Yu Zang, and Cheng Wang.  
+<i>CVPR, 2024.</i>  
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Global_and_Hierarchical_Geometry_Consistency_Priors_for_Few-shot_NeRFs_in_CVPR_2024_paper.pdf) [[Code]](https://github.com/XT5un/P2NeRF)
+
+* <b>Diffusion time-step curriculum for one image to 3d generation</b> <br> 
+Xuanyu Yi, Zike Wu, <b>Qingshan Xu</b>, Pan Zhou, Joo-Hwee Lim, and Hanwang Zhang.  
+<i>CVPR, 2024.</i>  
+[[Paper]](https://arxiv.org/abs/2404.04562v3) [[Code]](https://github.com/yxymessi/DTC123)
+
+* <b>SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration</b> <br> 
+Kezheng Xiong, Maoji Zheng, <b>Qingshan Xu</b>, Chenglu Wen, Siqi Shen, and Cheng Wang.  
+<i>AAAI, 2024.</i>  
+[[Paper]](https://arxiv.org/abs/2312.08664) [[Code]](https://github.com/kezheng1204/KITTI-CrossSource)
+
+* <b>Hierarchical Prior Mining for Non-local Multi-View Stereo</b> <br> 
+Chunlin Ren, <b>Qingshan Xu</b>, Shikun Zhang, and Jiaqi Yang.  
+<i>ICCV, 2023.</i>  
+[[Paper]](https://arxiv.org/abs/2303.09758) [[Code]](https://github.com/CLinvx/HPM-MVS)
+
 * <b>Uncertainty-guided Multi-view Stereo Networks for Depth Estimation</b> <br> 
 Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.  
 <i>TCSVT, 2022.</i>   
