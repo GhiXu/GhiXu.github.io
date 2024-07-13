@@ -5,6 +5,10 @@ author_profile: true
 ---
 \* denotes equal contribution. 
 
+* <b>Few-shot NeRF by Adaptive Rendering Loss Regularization</b> <br> 
+<b>Qingshan Xu</b>, Xuanyu Yi, Jianyao Xu, Wenbing Tao, Yew-Soon Ong and Hanwang Zhang.    
+<i>ECCV, 2024.</i>   
+
 * <b>Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction</b> <br> 
 Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao.    
 <i>NeurIPS, 2022.</i>  
@@ -14,11 +18,6 @@ Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao.
 <b>Qingshan Xu</b>, Weihang Kong, Wenbing Tao, and Marc Pollefeys.   
 <i>TPAMI, 2022.</i>  
 [[Paper]](https://ieeexplore.ieee.org/document/9863705) [[Code]](https://github.com/GhiXu/ACMMP)  
-
-* <b>Uncertainty-guided Multi-view Stereo Networks for Depth Estimation</b> <br> 
-Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.  
-<i>TCSVT, 2022.</i>   
-[[Paper]](https://ieeexplore.ieee.org/document/9797764)
 
 * <b>Learning Inverse Depth Regression for Pixelwise Visibilty-Aware Multi-View Stereo Networks</b> <br> 
 <b>Qingshan Xu</b>, Wanjuan Su, Yuhang Qi, Wenbing Tao, and Marc Pollefeys.  
@@ -40,6 +39,12 @@ Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.
 <i>CVPR, 2019.</i>  
 [[Paper]](https://arxiv.org/abs/1904.08103) [[Code]](https://github.com/GhiXu/ACMM)
 
+* <b>Uncertainty-guided Multi-view Stereo Networks for Depth Estimation</b> <br> 
+Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.  
+<i>TCSVT, 2022.</i>   
+[[Paper]](https://ieeexplore.ieee.org/document/9797764) 
+
+<!--
 * <b>Efficient Large-scale Geometric Verification for Structure from Motion</b> <br> 
 <b>Qingshan Xu</b>, Jie Li, Wenbing Tao, and Delie Ming.  
 <i>Pattern Recognition Letters, 2019.</i>  
@@ -49,6 +54,7 @@ Wanjuan Su, <b>Qingshan Xu</b>, and Wenbing Tao.
 <b>Qingshan Xu</b>, Kun Sun, Wenbing Tao, and Liman Liu.  
 <i>Chinese Conference on Computer Vision, 2017.</i>  
 [[Paper]](https://link.springer.com/chapter/10.1007/978-981-10-7302-1_9)
+--> 
 
 <!--
 ## In Submission
