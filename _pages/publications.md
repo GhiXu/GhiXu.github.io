@@ -41,7 +41,7 @@ Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao.
 [[Paper]](https://arxiv.org/abs/1904.08103) [[Code]](https://github.com/GhiXu/ACMM)
 
 * <b>PSDF: Prior-Driven Neural Implicit Surface Learning for Multi-view Reconstruction</b> <br> 
-Wanjuan Su, Chen Zhang， <b>Qingshan Xu</b>, and Wenbing Tao.  
+Wanjuan Su, Chen Zhang，<b>Qingshan Xu</b>, and Wenbing Tao.  
 <i>TVCG, 2024.</i>  
 [[Paper]](https://arxiv.org/abs/2401.12751)
 
