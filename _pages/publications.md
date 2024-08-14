@@ -40,6 +40,11 @@ Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao.
 <i>CVPR, 2019.</i>  
 [[Paper]](https://arxiv.org/abs/1904.08103) [[Code]](https://github.com/GhiXu/ACMM)
 
+* <b>PSDF: Prior-Driven Neural Implicit Surface Learning for Multi-view Reconstruction</b> <br> 
+Wanjuan Su, Chen Zhang， <b>Qingshan Xu</b>, and Wenbing Tao.  
+<i>TVCG, 2024.</i>  
+[[Paper]](https://arxiv.org/abs/2401.12751)
+
 * <b>Global and Hierarchical Geometry Consistency Priors for Few-shot NeRFs in Indoor Scenes</b> <br> 
 Xiaotian Sun, <b>Qingshan Xu</b>, Xinjie Yang, Yu Zang, and Cheng Wang.  
 <i>CVPR, 2024.</i>  
