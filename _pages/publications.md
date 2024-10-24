@@ -8,7 +8,8 @@ See more publications in: [[Google Scholar]](https://scholar.google.com/citation
 
 * <b>Few-shot NeRF by Adaptive Rendering Loss Regularization</b> <br> 
 <b>Qingshan Xu</b>, Xuanyu Yi, Jianyao Xu, Wenbing Tao, Yew-Soon Ong and Hanwang Zhang.    
-<i>ECCV, 2024.</i>   
+<i>ECCV, 2024.</i>
+[[Paper]](https://arxiv.org/abs/2410.17839) 
 
 * <b>Geo-Neus: Geometry-Consistent Neural Implicit Surfaces Learning for Multi-view Reconstruction</b> <br> 
 Qiancheng Fu\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Wenbing Tao.    
