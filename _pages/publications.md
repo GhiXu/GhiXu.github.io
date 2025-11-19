@@ -6,6 +6,11 @@ author_profile: true
 See more publications in: [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=k96kDhsAAAAJ&view_op=list_works&sortby=pubdate)  
 \* denotes equal contribution. 
 
+* <b>Lightweight and Accurate Multi-View Stereo With Confidence-Aware Diffusion Model</b> <br> 
+Fangjinhua Wang\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Marc Marc.    
+<i>TPAMI, 2025.</i>  
+[[Paper]](https://arxiv.org/abs/2509.15220) [[Code]](https://github.com/cvg/diffmvs)
+
 * <b>Few-shot NeRF by Adaptive Rendering Loss Regularization</b> <br> 
 <b>Qingshan Xu</b>, Xuanyu Yi, Jianyao Xu, Wenbing Tao, Yew-Soon Ong and Hanwang Zhang.    
 <i>ECCV, 2024.</i>  
