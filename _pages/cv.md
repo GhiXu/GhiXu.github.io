@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Vision and Pattern Recognition, Huazhong University of Sciene and Technology, Sep. 2016 - Dec. 2021
-* B.S. in Automation, Central South University, Sep. 2012 - Jun. 2016
+* Ph.D in Computer Vision and Pattern Recognition, Huazhong University of Sciene and Technology, 2016 - 2021
+* B.S. in Automation, Central South University, 2012 - 2016
 
 Experience
 ======
-* Oct. 2020 - May 2021: Visiting Ph.D. Student
+* 2020 - 2021: Visiting Ph.D. Student
   * Computer Vision and Geometry Group (CVG) at ETH Zurich
   * Topic: Learning-based Multi-View Stereo
   * Supervisor: Professor Marc Pollefeys
