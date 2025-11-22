@@ -7,7 +7,7 @@ See more publications in: [[Google Scholar]](https://scholar.google.com/citation
 \* denotes equal contribution. 
 
 * <b>Lightweight and Accurate Multi-View Stereo With Confidence-Aware Diffusion Model</b> <br> 
-Fangjinhua Wang\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Marc Marc.    
+Fangjinhua Wang\*, <b>Qingshan Xu</b>\*, Yew-Soon Ong and Marc Pollefeys.    
 <i>TPAMI, 2025.</i>  
 [[Paper]](https://arxiv.org/abs/2509.15220) [[Code]](https://github.com/cvg/diffmvs)
 
